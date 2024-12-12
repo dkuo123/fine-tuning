@@ -3,7 +3,7 @@ import psycopg2
 from psycopg2 import Error
 
 # Define variables
-OPENAI_API_KEY = "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"
+# OPENAI_API_KEY = "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"
 # MODEL = "ft:gpt-4o-2024-08-06:personal:secmaster-2:AbFxfoSj"
 MODEL= "ft:gpt-4o-2024-08-06:personal::Ad4WxL6P"
 question = "find all high yield New York bonds, coupon between 3.0 and 5.0 inclusive, tax free"
